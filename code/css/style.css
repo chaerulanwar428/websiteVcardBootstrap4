@@ -13,3 +13,11 @@ nav a.active{
     color: #475cfd;
     font-weight: bold;
 }
+
+nav a:hover{
+    color: #475cfd;
+}
+
+nav h5{
+    font-weight: bold;
+}
