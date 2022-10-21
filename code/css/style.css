@@ -46,3 +46,15 @@ nav h5{
     color: white;
     margin-top: 20px;
 }
+
+.card-body{
+    position:relative;
+    overflow: hidden;
+}
+
+.bg-img{
+    position: absolute;
+    bottom: -58px;
+    right: -60px;;
+    width: 50%;
+}
