@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:200,400d,700isplay&=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,400,600isplay&=swap');
 
 body{
     font-family: 'Montserrat', sans-serif;
@@ -20,4 +20,29 @@ nav a:hover{
 
 nav h5{
     font-weight: bold;
+}
+
+.main{
+    color:white;
+
+}
+
+.main h1{
+    font-weight: 100;
+}
+
+.main h1 span{
+    font-weight: 600;
+    color: #475cfd;
+}
+
+.main p{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+}
+.main button{
+    background-color: #ff4887;
+    color: white;
+    margin-top: 20px;
 }
